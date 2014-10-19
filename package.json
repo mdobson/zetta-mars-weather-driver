@@ -1,0 +1,29 @@
+{
+  "name": "zetta-mars-weather-driver",
+  "version": "0.1.0",
+  "description": "Mars weather sensors",
+  "main": "index.js",
+  "dependencies": {
+    "zetta-device": "~0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mdobson/zetta-mars-weather-driver.git"
+  },
+  "keywords": [
+    "zetta",
+    "maas",
+    "mars",
+    "weather"
+  ],
+  "author": "Matthew Dobson <@mdobs>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdobson/zetta-mars-weather-driver/issues"
+  },
+  "homepage": "https://github.com/mdobson/zetta-mars-weather-driver"
+}
